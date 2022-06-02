@@ -1,0 +1,6 @@
+// $1
+#include <my_hfile/cscpp43.h>
+
+int main(${2|int argc\, char *argv[],void|}) {
+  $3
+}
