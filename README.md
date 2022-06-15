@@ -6,6 +6,8 @@
 
 插件列表
 
+人人夸，一搜一大堆
+
 *   project manager
 
 *   peacock
@@ -28,6 +30,8 @@
 
 ---
 
+小众一些的
+
 *   `code`command
 
     *    [Running Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux "Running Visual Studio Code on Linux")
@@ -49,6 +53,8 @@
 *   C++ helper
 
 ---
+重要
+
 *   xmake\cmake
 
     *   [通过xmake在vscode上编写c/c++项目](https://www.wolai.com/myboy/ftXPfQzG8ZXiyfqm3qs9Qd "通过xmake在vscode上编写c/c++项目")
